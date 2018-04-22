@@ -45,8 +45,8 @@ matrix:
         - MATRIX_EVAL="CC=gcc-7 && CXX=g++-7"
 
 script:
-    - cd scripts
-    - make
+    - cd src
+    - make 
     - cd ..
  
 before_install:
