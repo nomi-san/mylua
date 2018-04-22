@@ -4,13 +4,15 @@ MyLua - Lua for Windows
 
 ## Build
 - Require
-	 - [x] MinGW-32bit
-	 - [ ] MS Visual Studio 2010 or later (optional)
-- Start
-	- Clone this repository `$ git clone https://github.com/wy3/mylua.git`
-	- MinGW:
-		- Run file **`make.bat`** to build.
-	- MSVC:
-		- Run **`VS Command Prompt x86`**
-		- `$ cd mylua`
-		- `$ msvcbuild`
+	 - [x] [MinGW-32bit](http://www.mingw.org/) 
+	 - [ ] [MS Visual Studio](https://www.visualstudio.com/) 2010 or later (optional)
+
+- Clone this repository `$ git clone https://github.com/wy3/mylua.git`
+
+- **MinGW**
+	- Run file **`make.bat`** to build (default is `mingw32-make`, change it to `make` if use **Cygwin**)
+	
+- **MSVC**
+	- Run **`VS Command Prompt x86`**
+	- `$ cd mylua`
+	- `$ msvcbuild`
