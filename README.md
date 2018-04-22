@@ -1,6 +1,8 @@
 MyLua - Lua for Windows
 ===
-[![mylua](https://img.shields.io/badge/mylua-0.1-green.svg?longCache=true&style=flat-square)](https://github.com/wy3/mylua) [![lua](https://img.shields.io/badge/lua-5.3.4-blue.svg?longCache=true&style=flat-square)](https://www.lua.org)
+[![platform](https://img.shields.io/badge/platform-win--32-lightgrey.svg?longCache=true&style=flat-square)]()
+[![mylua](https://img.shields.io/badge/mylua-0.1-green.svg?longCache=true&style=flat-square)](https://github.com/wy3/mylua) 
+[![lua](https://img.shields.io/badge/lua-5.3.4-blue.svg?longCache=true&style=flat-square)](https://www.lua.org)
 
 ## Build
 - Require
