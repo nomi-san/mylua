@@ -1,4 +1,5 @@
 set mk=mingw32-make
+::make
 set dir=%cd%
 cd src
 %mk% mingw
