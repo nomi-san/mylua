@@ -8,7 +8,7 @@ MyLua - Lua for Windows
 ### Windows
 - Require
 	 - [x] [MinGW-32bit](http://www.mingw.org/) 
-	 - [ ] [MS Visual Studio](https://www.visualstudio.com/) 2010 or later (optional)
+	 - [ ] [MS Visual Studio](https://www.visualstudio.com/) 2010 or later (for __MSVC__ build)
 
 - Clone this repository `$ git clone https://github.com/wy3/mylua.git`
 
