@@ -8,3 +8,4 @@ xcopy /y *.dll %dir%\bin\
 xcopy /y *.a %dir%\bin\
 %mk% clean
 cd %dir%
+
